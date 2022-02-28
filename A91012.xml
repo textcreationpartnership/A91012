@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compassionate Christ. A small treatise, setting forth the tendernesse of Christ towards the bruised and broken in spirit. / By H. Prime. Minister of the Gospell.</title>
+            <author>Prime, H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91012</idno>
+            <idno type="STC">Wing P3459</idno>
+            <idno type="STC">Thomason E1201_3</idno>
+            <idno type="STC">ESTC R208768</idno>
+            <idno type="EEBO-CITATION">99867690</idno>
+            <idno type="PROQUEST">99867690</idno>
+            <idno type="VID">170658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1201[3], 251:E1201[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Compassionate Christ. A small treatise, setting forth the tendernesse of Christ towards the bruised and broken in spirit. / By H. Prime. Minister of the Gospell.</title>
+                  <author>Prime, H.</author>
+               </titleStmt>
+               <extent>[8], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Calvert, at the black spred-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: p. 12-13 lacking.</note>
+                  <note>Annotation on Thomason copy: "May. 5. th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Person and offices --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Compassion --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170658:1" rendition="simple:additions"/>
+            <p>
+               <hi>Compaſsionate</hi> CHRIST. A SMALL TREATISE, Setting forth the tender<g ref="char:EOLhyphen"/>neſſe of <hi>Chriſt</hi> towards the bruiſed and bro<g ref="char:EOLhyphen"/>ken in ſpirit.</p>
+            <p>By H. PRIME. Miniſter of the Goſpell.</p>
+            <q>
+               <bibl>
+                  <hi>ZACH. 13.7.</hi>
+               </bibl>
+               <p>I will turne my hand upon the little ones.</p>
+               <bibl>
+                  <hi>MATTH. 11.29.</hi>
+               </bibl>
+               <p>I am meeke and lowly in heart.</p>
+            </q>
+            <p>LONDON, Printed for <hi>G. Calvert,</hi> at the black ſpred-Eagle at the Weſt-end of <hi>Pauls.</hi> 1645.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:170658:2"/>
+            <pb facs="tcp:170658:2"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is generally received that CHRIST is come in the fleſh, and yet it is a little of the beſt that is done in the blind world,
+<note place="margin">
+                  <hi>Matth.</hi> 21.</note> to make up this <hi>Chriſt</hi> of any thing; But the truth is, there is no reall <hi>Chriſt</hi> to thee or me, untill we find his finger upon our haerts kindly breaking and
+<pb facs="tcp:170658:3"/>bruiſing of them, till then we ſpend all up<g ref="char:EOLhyphen"/>on Phyſitians (with her in the Goſpell) and are never the bet<g ref="char:EOLhyphen"/>ter, but the worſe. It is worth the while to look to this, that we erre not in our begin<g ref="char:EOLhyphen"/>ning for heaven and foundation for hap<g ref="char:EOLhyphen"/>pie eternity: This Treatiſe tells us in a little, how the King<g ref="char:EOLhyphen"/>dome of heaven is laid in the ſmall, but ſure beginnings of Goſpell bruiſings; a day of ſmall things it is that dawns to hea<g ref="char:EOLhyphen"/>ven
+<pb facs="tcp:170658:3"/>and glory, take heed it be not deſpi<g ref="char:EOLhyphen"/>ſed. Many men have been long in gather<g ref="char:EOLhyphen"/>ing of a little, and even that poore ſee<g ref="char:EOLhyphen"/>ming little, crumbles to nothing, becauſe <hi>Chriſt</hi> is not in it. Yea, not only that which is wide from <hi>Chriſt,</hi> but even that which is like him, if it bee not himſelfe, and our touch and hand of faith handles &amp; feels it ſo, vaniſheth. But if it be he himſelfe, his ſweet Spirit inward<g ref="char:EOLhyphen"/>ly enlivening, heat<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:170658:4"/>and kindling his good word, outward<g ref="char:EOLhyphen"/>ly breaking, melting, humbling, though it be but upon a reed or ſmoaking week, it be<g ref="char:EOLhyphen"/>ing his work abideth for ever. Soule-brui<g ref="char:EOLhyphen"/>ſings, and ſoule-heal<g ref="char:EOLhyphen"/>ings, both are from him. It is drawing to<g ref="char:EOLhyphen"/>wards night (everlaſt<g ref="char:EOLhyphen"/>ing night) with ma<g ref="char:EOLhyphen"/>ny a poor ſoule who know little, and be<g ref="char:EOLhyphen"/>leeve leſſe of this Di<g ref="char:EOLhyphen"/>vinity; where to lay the fault I know not, but ſure I am, that the face of Ignorance
+<pb facs="tcp:170658:4"/>and unbelief ſhall ga<g ref="char:EOLhyphen"/>ther blackneſſe at the day of <hi>Chriſts</hi> appea<g ref="char:EOLhyphen"/>ring. In fine I ſay but this,
+<note place="margin">2 <hi>Theſ.</hi> 1.8.</note> to be a <hi>reed ſha<g ref="char:EOLhyphen"/>ken with the wind,</hi> that is, to be a light for<g ref="char:EOLhyphen"/>mall out-ſide profeſ<g ref="char:EOLhyphen"/>ſor is a very vanity, but to bee a ſolid ſound true Chriſtian <hi>indeed,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 1.47.</note> though but as a <hi>bruiſed reed,</hi> is a ve<g ref="char:EOLhyphen"/>ry hopefull and hap<g ref="char:EOLhyphen"/>py condition.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:170658:5"/>
+            <pb n="1" facs="tcp:170658:5"/>
+            <head>COMPASSIONATE CHRIST.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATTH. 12.20.</hi>
+                  </bibl>
+                  <p>A bruiſed reed ſhall he not breake &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">C</seg>HRIST having cured the wither'd hand upon the Sab<g ref="char:EOLhyphen"/>bath, the Phariſes were of<g ref="char:EOLhyphen"/>fended: His Anſwer, Firſt, for curing on the Sabbath it was a good work, and it is lawfull to do good upon any day; the Sabbath only for<g ref="char:EOLhyphen"/>bids ſinfull and ſervile works. Secondly, in that he did heale and cure, he ſheweth that it was his Calling, and the end of his comming in the fleſh, formerly fore-told by the Prophet, <hi>Eſay</hi> 42. out of which this text is taken, <hi>He ſhall not break a bruiſed reed,</hi> &amp;c. How hard a thing it is to doe good without ſome exceptions, yea, for
+<pb n="2" facs="tcp:170658:6"/>the beſt to carry themſelves ſo but offence will be taken, as here &amp;c. yet conſcience of our duty muſt prevaile againſt all diſ<g ref="char:EOLhyphen"/>couragements.</p>
+            <p>Here are two things in this text: 1. The condition of weake Chriſtians, compared in this text to <hi>bruiſed reeds.</hi>
+            </p>
+            <p n="2">2. Chriſts carriage towards ſuch, <hi>Hee will not break</hi> &amp;c.</p>
+            <div type="observation">
+               <head>Obſervation ſingular.</head>
+               <p>That Chriſt is tenderly affected to<g ref="char:EOLhyphen"/>wards all his, eſpecially unto ſuch as be weak.</p>
+            </div>
+            <div type="proofs">
+               <head>Proofes.</head>
+               <p>
+                  <hi>Eſay</hi> 61.1, 2 3. A deſcription of the Saints neceſſities. 2. Of Chriſts quali<g ref="char:EOLhyphen"/>fication for his office. Thirdly, of his ac<g ref="char:EOLhyphen"/>commodation of himſelf to their Severall conditions, made all things to all men, <hi>Eſay</hi> 49.13, 14, 15. verſes. So <hi>Eſay</hi> 63.7.89. verſes, the Church praiſeth God for his kindneſſe towards her, and that when ſhee was at the worſt in the wilderneſſe, Chriſt that Angell of Gods preſence, <hi>Col.</hi> 3.12, 13. Chriſts example is propounded.</p>
+               <p>This is further proved by ſeverall inſtances.</p>
+               <p n="1">
+                  <pb n="3" facs="tcp:170658:6"/>
+1. Chriſts promiſes and invitations, are melting promiſes, and invitations univerſally propounded, <hi>Joh.</hi> 7.37. What a melting invitation univerſally propoun<g ref="char:EOLhyphen"/>ded. So <hi>Eſay</hi> 54. <hi>Ho every one that thirſteth. Matth.</hi> 11.25. <hi>Come unto me all yee that are weary and</hi> &amp;c. A melting invitation to all bruiſed broken ſpirits, labouring under the burthen of ſin or ſufferings.</p>
+               <p n="2">2. His carriage was an humble carri<g ref="char:EOLhyphen"/>age, the humbleſt ſoule that ever trod up<g ref="char:EOLhyphen"/>on the ground, <hi>I am meek and lowly, Mat.</hi> 11.25. How humble was he towards his Diſciples, then eſpecially when he took a towell, bound it about him, tooke water, and ſtooped, and waſhed his Diſciples feet, <hi>John</hi> 13. An Example of humility for them to do the meaneſt offices for the pooreſt <hi>bruiſed reeds</hi> belonging unto him.</p>
+               <p>How humble in his carriage was he to<g ref="char:EOLhyphen"/>wards the woman of <hi>Samaria,</hi> ſhe migh<g ref="char:EOLhyphen"/>tily proud, and he greatly humble in his words and behaviour towards her, as that Anſwer of his ſhewes; <hi>O woman, if thou kneweſt the gift of God, and who it is that ſaith unto thee, give me drink,</hi> &amp;c. His Di<g ref="char:EOLhyphen"/>ſciples marvelled at his carriage towards her, being ſuch a woman, and alone.</p>
+               <p n="3">3. Chriſt hath a quick ſight to behold the leaſt more or ſcruple that troubles a<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:170658:7"/>of his: and healing is in his very looks. So in <hi>Eſay</hi> 66.2. compared with the 57.15. Thus his eye was upon <hi>Nathaniel, Joh.</hi> 1. <hi>I ſaw thee under the Fig-tree.</hi> So he look't upon <hi>Peter, Luke</hi> 22.6. after his deniall Chriſt could not come to him, nor ſpeak to him; <hi>Peter</hi> durſt not own Chriſt, but denied him with ſwearing; Chriſt did as he might to preſerve this <hi>broken reed,</hi> this poor ſoule from ſinking: Chriſt look't upon him, and <hi>Peter wept;</hi> Chriſt caſt a loving eye upon him, or woe had been unto <hi>Peter.</hi>
+               </p>
+               <p n="4">4 So he hath a compaſſionate heart, his <hi>Soul was grieved for the miſery of Iſrael, Iudg.</hi> 40.16. How did he lay to heart Jeruſalems miſery, Forty yeares before it fell out ill with them? All that then he could do for them was to pity them, and ſo he did, lamenting over it, <hi>Luke</hi> 19.41.</p>
+               <p n="5">5. Hath he not a skilfull hand to make a plaiſter and lay it on: Conſider, <hi>Luke</hi> 7. When <hi>Magdalen</hi> came into the Phariſees houſe, Chriſt had enough to do both to ſtop their mouths, grumbling at him for ſuffering ſuch a one to come neere him; and to quiet and comfort her grieved and perplexed ſpirit: And therefore firſt ad<g ref="char:EOLhyphen"/>dreſſes himſelfe unto <hi>Simon,</hi> and ſtops his clamour againſt her and himſelf, by the
+<pb n="5" facs="tcp:170658:7"/>parable of the two debters; applying of it to her, ſhewing that her weeping and wiping, wiping and weeping again and again, and kiſſing his feet, came from her love, more than he would do for him, or did ſince he came into his houſe, &amp;c. And then with the other hand applying a plai<g ref="char:EOLhyphen"/>ſter to her, ſaying, <hi>Woman, thy ſins are for<g ref="char:EOLhyphen"/>given thee;</hi> and <hi>woman thy faith hath ſaved thee, go in peace, Luke</hi> 7.50.</p>
+               <p n="6">6. Chriſts doctrine is dropping do<g ref="char:EOLhyphen"/>ctrine, diſtilling doctrine; diſtilling as the dew, <hi>Dropping as the rain upon the tender graſſe, Deut.</hi> 32.2. He preach't at loweſt, and prayd at loweſt, ſpake in parables to win his followers: At his firſt Sermon, <hi>Matth.</hi> 5. What tender droppings of the Word of Grace from his lips: beginning with bleſſings, <hi>Bleſſed are the poor in Spirit,</hi> meek, hungering, pronouncing bleſſings unto the beginnings of grace, poverty of ſpirit, hungring and thirſting, little more than privations, preceding habits of grace, or elſe preparations unto grace; and ſo along, treating of divine providence by arguments taken from Lillyes and Spar<g ref="char:EOLhyphen"/>rows, as they were able to heare: So that as <hi>Luke</hi> ſayes, all were affected with his miniſtry, all bare him witneſſe, as, <hi>wonder<g ref="char:EOLhyphen"/>ing at the gracious words which proceeded
+<pb n="6" facs="tcp:170658:8"/>out of his mouth, Luke</hi> 4.22.</p>
+               <p n="7">7. So his diſcipline, gentle diſcipline: <hi>Matth.</hi> 11.30. <hi>My yoke is eaſie, burthen light,</hi> eaſie to the ſpirit, though not to the fleſh, or hard at firſt putting on, though gentle and light afterwards; and this is the yoke of obedience to Gods Commands, whoſe Commands are not grievous: Beſides, Chriſt hath drawn in this yoke himſelfe, he <hi>learned obedience by the things he ſuffered,</hi> and ſo muſt all his, all is not done at firſt, <hi>Peter, James, John,</hi> &amp;c. were a long time learning conformity to this yoke.</p>
+               <p n="8">8. He is tenderly carryed towards his when they are well and in health, <hi>Joh.</hi> 11. How familiarly converſing with <hi>Lazarus, Mary, Martha,</hi> eating, ſitting, talking at times with them: how pleaſant is the company of a wiſe, grave, godly, loving friend to us.</p>
+               <p n="9">9 Much more when they are ſicke and ill, how readily doe they come to tell Chriſt of <hi>Lazarus</hi> ſickneſſe? <hi>Lord he whom thou loveſt is ſick:</hi> Who but Chriſt to them who are ſick? For this, he is com<g ref="char:EOLhyphen"/>pared unto the good Samaritan, <hi>Luke</hi> 10. who came to, and comforted, and tooke care for the future of the poor bruiſed and broken travellers good: When <hi>Prieſt</hi> nor <hi>Levite,</hi> neither did nor durſt come
+<pb n="7" facs="tcp:170658:8"/>neer him: the Prieſt eſpecially: <hi>Ne Ca<g ref="char:EOLhyphen"/>daveris contactu pollueretur. Beza.</hi> How ſpeedy in riſing from the grave to com<g ref="char:EOLhyphen"/>fort his perplexed Diſciples, <hi>Peter</hi> eſpe<g ref="char:EOLhyphen"/>cially, that had both crazed his conſci<g ref="char:EOLhyphen"/>ence and loſt his office by his deniall: <hi>Go tell my diſciples and Peter:</hi> And ſo to <hi>Thomas: Bring hither thy finger, &amp;c.</hi> and to <hi>Mary weeping at the Sepulcher</hi>
+               </p>
+               <p n="10">10 Laſt of all, and moſt of all to his, when they die, as, <hi>Joh.</hi> 11. <hi>Our friend Laza<g ref="char:EOLhyphen"/>rus ſleepeth,</hi> weeping, <hi>groaning in Spirit;</hi> all the Saints dye in Chriſts armes: <hi>Into thy hands I commend my ſpirit.</hi> So <hi>Stephen:</hi> So <hi>Luther,</hi> Thee onely O Chriſt have I known, have I loved, truſted, ſerved, <hi>Into thy hands I commend my ſpirit.</hi>
+               </p>
+            </div>
+            <div type="reasons">
+               <head>Reaſons of the point.</head>
+               <p n="1">1. The neare relation between Chriſt and his: Hee is our elder brother, our kinſman, our fleſh and blood, which he took into fellowſhip with the God-head, that he might compaſſionate our eſtate. See <hi>Heb.</hi> 2.14, 15. The beſt nature in hea<g ref="char:EOLhyphen"/>ven, and the beſt nature on earth united in one perſon.</p>
+               <p n="2">2. He was a <hi>bruiſed reed</hi> himſelf from his infancy to his death, <hi>Herod</hi> ſought to
+<pb n="8" facs="tcp:170658:9"/>cruſh him in his cradle: See his <hi>bruiſings</hi> in all the Evangeliſts, <hi>Eſay</hi> 53.3.5. verſ.</p>
+               <p n="3">3. He was free from ſin, which made him ſo compaſſionate towards all, his eſpecially: Sin hardens the heart; <hi>Leſt your hearts be hardned through</hi> &amp;c. Self-love, pride, covetouſneſſe, bring a calloſity up<g ref="char:EOLhyphen"/>on the heart.</p>
+               <p n="4">4. <hi>He is full of grace, and thereby ſufficient<g ref="char:EOLhyphen"/>ly qualified for this office:</hi> Note <hi>Eſay</hi> 61.1, 2, 3. Having the fulneſſe of the holy Spi<g ref="char:EOLhyphen"/>rit, he was made fit to accommodate himſelf to the comfort of every diſtreſſed caſe; if the heart were broken, his office was to bind it up: if in captivity, he was to proclaime liberty.</p>
+               <p n="5">5. Whither ſhould the Saints go in their difficult caſes? if <hi>Chriſt</hi> had no <hi>bowels, refuge may</hi> utterly <hi>fail.</hi> See <hi>Eſay</hi> 63.15, 16. <hi>Abram is ignorant of us, Pſalm.</hi> 44.17, 18, 19. So <hi>Paul</hi> left and forſaken of all, though not of God, 2 <hi>Tim.</hi> 1.15. 2 <hi>Tim.</hi> 4.16, 17.</p>
+               <p n="6">6. If Chriſt were not thus tenderly affected, God would have none to ſerve him, ſeeing the righteous fall <hi>ſeven times a day.</hi> And therefore <hi>David</hi> ſpeaks of him as of a loving Maſter, that <hi>will not alwayes chide,</hi> but hath the <hi>pity of a Father, Pſal.</hi> 103.7, 8.13, 14. God is very careful
+<pb n="9" facs="tcp:170658:9"/>not to diſcourage his <hi>bruiſed reeds:</hi> natu<g ref="char:EOLhyphen"/>rally Chriſt is thought an <hi>hard Maſter,</hi> as that ſervant falſely ſaid, <hi>I knew that thou wert an auſhere man,</hi> but nothing ſo, he was a fooliſh <hi>ſlothfull ſervant,</hi> and was glad of ſuch an excuſe to put off Chriſts ſer<g ref="char:EOLhyphen"/>vice; but the Saints upon triall find it o<g ref="char:EOLhyphen"/>therwiſe, being ſorry they knew him and his ſervice no ſooner, not willing to change it for another: <hi>Whiter ſhall we go? thou haſt the words of eternall life.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <head>Application followes.</head>
+               <p n="1">1. Admire the wiſdom and goodneſſe of God, that hath ſet ſuch a one over his houſhold ſo wiſe, ſo compaſſionate, our lot might have been under bondage all our dayes, and to have had ſuch over us as would have rent our fleſh with Scor<g ref="char:EOLhyphen"/>pions, and puld out our heart out of our bodies, and after all have been ſent to hell: The Lord might have ſet Lions and Tygers over us, but he governes his by the <hi>Lambe, Behold the Lambe of God that taketh away the ſinnes of the world; E<g ref="char:EOLhyphen"/>liakim</hi> in this was a type of Chriſt, <hi>Eſay</hi> 22.21, 22, 23, 24. this is for our holy ad<g ref="char:EOLhyphen"/>miration.</p>
+               <p n="2">2. <hi>Admire the excellency of our Redeemer.</hi>
+                  <pb n="10" facs="tcp:170658:10"/>What is thy beloved above other belo<g ref="char:EOLhyphen"/>veds? <hi>My beloved is white and ruddy, the chiefeſt of ten thouſand,</hi> none ſo wiſe as he, none ſo gracious, ſo mercifull, ſo com<g ref="char:EOLhyphen"/>paſſionate to his poor afflicted bruiſed reeds. As their <hi>Prophet,</hi> reſolves all their doubts. Clearing all the Caſes out of Scriptures. As their King, ſubduing all their luſts, confounding all their enemies, maintaining all their liberties. As their <hi>Prieſt,</hi> pardoning all their ſins, perfuming, mending all their prayers with his O<g ref="char:EOLhyphen"/>dors, bringing them into favour with God.</p>
+               <p n="3">3. It ſhewes their vileneſſe that ſinne againſt ſo tender a Saviour; thoſe prin<g ref="char:EOLhyphen"/>cipally that, firſt, deſpiſe his Word and Ordinances; ſecondly, that refuſe his Government, <hi>We will not have this man to reigne over us.</hi>
+               </p>
+               <p n="4">4. See what great diſſimilitude there is betwixt Chriſt and men; men in place ſet over others, where ſhall wee find <hi>Chriſts bowels</hi> in many mens boſomes? Where is become the ſpirit of <hi>Eliſha,</hi> when others would have had the Armies ſlain? His word was, <hi>Set bread and water before them, and ſend them to their maſter.</hi>
+               </p>
+               <p n="5">5. Chriſt herein is a patterne to all Governours, Maſters, Miniſters, Pa<g ref="char:EOLhyphen"/>rents, &amp;c.</p>
+               <p n="6">
+                  <pb n="11" facs="tcp:170658:10"/>
+6. Here is comfort to all <hi>bruiſed reeds,</hi> from their relation they have to Chriſt: Their caſe is exceeding comfortable, though much afflicted: It is better to be a <hi>bruiſed reed,</hi> then a broken gilded gawdy Idoll, <hi>Jer.</hi> 22. God calleth <hi>Co<g ref="char:EOLhyphen"/>niah</hi> 2 Broken Idoll, a veſſell in which is no honour, though a great man, and ſuch is all ſinfull greatneſſe, when under judge<g ref="char:EOLhyphen"/>ment: What more deformed, deſpiſed a thing than a broken Idoll? Wicked men that muſt be adored as Idols for their ho<g ref="char:EOLhyphen"/>nours, greatneſſe, riches, learning, parts, in the day of their viſitation and deſtru<g ref="char:EOLhyphen"/>ction (comming as a Whirle-wind from God) moſt miſerable, forlorne, and de<g ref="char:EOLhyphen"/>ſpiſed is their condition. Such was <hi>Co<g ref="char:EOLhyphen"/>niah's</hi> caſe and <hi>Sauls.</hi>
+               </p>
+               <p n="7">7. Be exhorted to ſeek to Chriſt, all you that are his, though much <hi>afflicted and toſſed, Pſal.</hi> 132. <hi>Lord remember &amp;c.</hi> In all thy breakings and bruiſings, ſeek to him; for bruiſings may come like waves very thick; There are the devils bruiſings, the worlds bruiſings, and Chriſts bruiſings: The devils bruiſings, are the bruiſings of ſinne: The worlds are the bruiſings of ſufferings, loſſes and croſſes: Chriſts bruiſings are the bruiſings of repentance
+<pb n="12" facs="tcp:170658:11"/>and godly ſorrow for ſinne in all have re<g ref="char:EOLhyphen"/>courſe to Chriſt.</p>
+               <p>The devils bruiſings, are the bruiſings of ſinne, ſuch were <hi>Davids,</hi> and <hi>Peters</hi> bruiſings, <hi>Pſal.</hi> 51. <hi>Pſal.</hi> 32. <hi>Luke</hi> 19. both ſifted, and both bruiſed.</p>
+               <p>The worlds <hi>bruiſings,</hi> are the bruiſes of loſſes and croſſes; ſuch were <hi>Jobs</hi> brui<g ref="char:EOLhyphen"/>ſings, in his Children, Cattell, hou<g ref="char:EOLhyphen"/>ſes, &amp;c.</p>
+               <p>Chriſts bruiſings, are the bruiſings of godly ſorrow and repentance for ſinne: Such were <hi>Marics, Luke</hi> 7. Such the Pro<g ref="char:EOLhyphen"/>digals, ſuch the Publicans.</p>
+               <p>Thou mayeſt pray, and yet be brui<g ref="char:EOLhyphen"/>ſed, and yet thou muſt pray ſtill: Thou mayeſt heare, and yet be bruiſed (as there) and yet thou muſt heare ſtill. Thou mayeſt come to the Sacrament, and yet be bruiſed, and yet thou muſt come to the Sacrament ſtill: wait upon Chriſt.</p>
+               <p n="8">8. Is he tenderly affected towards thee? then carry thy ſelfe reſpectively towards him: Take heed thou ſin not preſumptuouſly againſt mercy, tender mercy. If he do not break thee, take heed that thou do not grieve him: When God ſent his Angell in mercy before <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> his warning was, <hi>Take heed thou pro<g ref="char:EOLhyphen"/>voke
+<pb n="13" facs="tcp:170658:11"/>him not. Exod.</hi> 23.21, 22. So <hi>Exod.</hi> 34.7. <hi>Keeping mercy for thouſands, forgi<g ref="char:EOLhyphen"/>ving,</hi> &amp;c. but by <hi>no meanes clearing the guil<g ref="char:EOLhyphen"/>ty.</hi> If we run upon the Score with ſo gra<g ref="char:EOLhyphen"/>cious a God; who ſhall cleare it? This was the Aggravation of <hi>David's</hi> ſin; it was againſt Gods great kindneſſe, 2 <hi>Sam.</hi> 12. God takes it unkindly when men for<g ref="char:EOLhyphen"/>get his benefits; which <hi>David</hi> prayes a<g ref="char:EOLhyphen"/>gainſt, <hi>Pſal.</hi> 103.3.</p>
+               <p n="9">9. This is for comfort to theſe <hi>bruiſed reeds;</hi> Is Chriſt ſo tender? Then ſhall they want nothing good for them.</p>
+               <p n="1">1. No Compaſſion, <hi>Lament.</hi> 3.23. his Compaſſions faile not; Sun may faile of light, and Moon and Stars, and the wa<g ref="char:EOLhyphen"/>ters of the great deep may be dried up, friends may faile you, yea, life it ſelfe; but Gods Compaſſions in Chriſt faile not.</p>
+               <p n="2">2. They ſhall not want <hi>Inſtruction,</hi> God will <hi>teach the humble, Pſalm.</hi> 25.80. <hi>Eſay</hi> 50.4.</p>
+               <p n="3">3. Not <hi>Correction:</hi> A thing which no <hi>Son</hi> can be without, <hi>Hebr.</hi> 12. <hi>Amos</hi> 3.2. <hi>Jer.</hi> 46.28.</p>
+               <p n="4">4. Not <hi>Protection, Matth.</hi> 12.2. He will not <hi>break them,</hi> ſaith <hi>Matthew</hi> here, but he will <hi>bleſſe them,</hi> be their <hi>bulwark, ſtrong tower, fortreſſe, rock, Pſal.</hi> 18.1.</p>
+               <p n="5">
+                  <pb n="14" facs="tcp:170658:12"/>
+5. Not <hi>Direction,</hi> 1 <hi>Sam.</hi> 2.9. Hee keepeth the feet, &amp;c. He guideth and di<g ref="char:EOLhyphen"/>recteth them in their way, even then when they tread upon the <hi>Lion,</hi> and <hi>Adder,</hi> and walk in the <hi>middeſt of ſnares.</hi>
+               </p>
+               <p n="6">6. Not <hi>Conſolations,</hi> They may want Corne, and Wine, but the <hi>light of Gods countenance, putteth joy into their hearts, Pſal.</hi> 4.6, 7. verſes</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
